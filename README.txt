@@ -28,7 +28,7 @@ Prerequisites
  Instructions
 
 1. Clone this repository to your local machine.
-2. Modify the Ansible playbook (`docker_deploy.yml`) as needed, specifying the appropriate target hosts and configurations.
+2. Modify the Ansible playbook (`loke.yml`) as needed, specifying the appropriate target hosts and configurations.
 3. Run the Ansible playbook using the command `ansible-playbook docker_deploy.yml`.
 4. Verify the deployment and accessibility of the Apache service from the host machine.
 
